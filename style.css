@@ -72,7 +72,7 @@ nav a:hover {
 
 /* Header/Hero */
 header.hero {
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://placehold.co/1200x400/546e7a/white?text=Kashio+Air+Base'); /* Replace with Roblox Screenshot */
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://media.discordapp.net/attachments/1466955039401578649/1467117331829489704/image.png?ex=697f36fd&is=697de57d&hm=ff97f8a1a49f29cf1064df8dbaa23e3fae4e20c19fda08b3d695fecb160fab94&=&format=webp&quality=lossless'); /* Replace with Roblox Screenshot */
     background-size: cover;
     background-position: center;
     color: white;
