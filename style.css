@@ -186,6 +186,30 @@ header h1 {
     padding: 1rem;
 }
 
+/* Grid for People */
+
+.prof {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.prof img {
+    display: block;
+    padding: 1rem;
+    width: 90%;
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    margin: auto;
+    border-radius: 50%; /* Optional: Makes the logo circular. Remove if you want square. */
+}
+
+.prof-content {
+    padding: 1rem;
+}
+
 /* Blog Styling */
 .blog-post {
     background: white;
