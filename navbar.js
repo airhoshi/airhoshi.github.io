@@ -15,7 +15,7 @@ const navbarHTML = `
 
         <ul class="nav-menu">
             <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">Operations</a></li>
+            <li><a href="operations.html">Operations</a></li>
             <li><a href="fleet.html">Our Fleet</a></li>
             <li><a href="people.html">Our Crew</a></li>
             <li><a href="history.html">Our History</a></li>
@@ -35,4 +35,5 @@ if (menuToggle && navMenu) {
         navMenu.classList.toggle('active');
         menuToggle.classList.toggle('is-active');
     });
+
 }
